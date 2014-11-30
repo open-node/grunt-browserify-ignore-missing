@@ -1,0 +1,39 @@
+{
+  "name": "grunt-browserify-ignore-missing",
+  "description": "Insert a special function for ignore missing module",
+  "version": "0.1.0",
+  "homepage": "https://github.com/open-node/grunt-browserify-ignore-missing",
+  "author": {
+    "name": "Redstone Zhao",
+    "url": "http://xiongfei.me/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:open-node/grunt-browserify-ignore-missing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/open-node/grunt-browserify-ignore-missing/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/open-node/grunt-browserify-ignore-missing/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "contributors": [
+    {
+      "name": "Redstone Zhao",
+      "url": "http://xiongfei.me/"
+    }
+  ]
+}
